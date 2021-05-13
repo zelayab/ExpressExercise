@@ -7,6 +7,8 @@
     - Con metodo GET enviamos index.html
     - Con metodo POST envia datos del form
     - la data es enviada a tráves del submit
+
+
 > Using GET/POST Method with server - 
     - Create port (5500 in my case)
     - With method GET  send index.html
